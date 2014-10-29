@@ -16,9 +16,3 @@ def show
     end
 end
 {% endhighlight %}
-
-
-<div class="snow-field"></div>
-<br>
-
-As you can see, this is amazing!
