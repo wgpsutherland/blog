@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Provember
+title: Remember, remember to code in Provember.
 ---
 
 I've always found it easy to sit down and do University work as I know that I *have* to do it, the consequences are too great not to.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: And a very spooky halloween to you
+title: And a very spooky halloween to you.
 ---
 
 Happy Halloween!
