@@ -30,4 +30,16 @@ There could be the added mechanic of the game not letting the player know that t
 The player could forget, fighting through hordes of enemies futilely, when they are just too late.
 It's very interesting. 
 
+<hr>
+
+I'm so incredibly distracted today - I'm going to Chicago!
+I still can't quite believe it, hopefully it'll seem more real after my phone call with the California office on Monday. 
+But Chicago!
+This is a dream for me, going to America for 3 months to work doing what I love.
+I can't wait.
+
+I Google Streetviewed the office I should be working in, it's right next to the Millenium Park. 
+And it's a highrise...
+Bloody hell. 
+
 ~ w
