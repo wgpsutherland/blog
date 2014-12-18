@@ -27,4 +27,13 @@ At least I can talk about this in my report.
 
 This final tactic though, I expect it to make a difference. It will essentially play a domino that does not give the opponent the oppurtunity to then score highly. It's going to be similar in complexity to the function that stops an opponent winning the game, but I hope it will have more of an impact as it won't be a last gasp tactic - it will be active throughout the game.
 
+<hr>
+
+I just redeemed a couple of iTunes vouchers I had lying around.
+It gives you the option to hold up the card to your web cam and scan the code for you. 
+Honestly, I've never been so impressed, it was instantaneous. The split second I held it up it read the card and added the money to my account.
+I've only ever experienced these things take a few seconds before.
+
+The future is now kids.
+
 ~ w
