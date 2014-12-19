@@ -36,4 +36,26 @@ I've only ever experienced these things take a few seconds before.
 
 The future is now kids.
 
+<hr>
+
+Rewatched the second *Hobbit* film today.
+As much as I'm not a fan of the films as a whole, it is better than I thought it was when I left the cinema the first time. 
+The barrell scene, though ridiculous, is very, very cool. 
+They could have done without the shots that looked like they were filmed with a GoPro however. 
+
+It is just so long.
+I think that's the films downfall.
+It goes on too long, with too much filler.
+The good bits are great, but it should have been finised in two films.
+I'm very interested to see the the third one now, my hopes are not high.
+
+Do not even get me started on the CGI orcs.
+
+<hr>
+
+I probably shouldn't have left my haskell designs until after I'd written them all.
+Now I have to slog through all of them and show the control structure.
+It's an effort, but there is no way I'm going to lose marks for something so simple. 
+It's just time consuming, and I can handle that.
+
 ~ w
