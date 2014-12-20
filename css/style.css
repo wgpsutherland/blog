@@ -31,3 +31,9 @@ body a:hover {
 .blog-image {
     width: 100%;
 }
+
+.small-blog-image {
+    width: 50%;
+    margin: 0 auto;
+    display: block;
+}
