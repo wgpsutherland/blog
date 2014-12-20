@@ -38,4 +38,9 @@ The rest I have no idea!
 I also need to play *Fez*.
 It seems right up my street.
 
+<hr>
+
+I just bought *Fez* for £1.75. 
+Steam sales are killer.
+
 ~ w
