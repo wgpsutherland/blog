@@ -3,7 +3,7 @@ layout: post
 title: Haskell is now my life.
 ---
 
-I ordered the second Jordan Mechner book today, this one actualy being about *Prince of Persia*. 
+I ordered the second Jordan Mechner book today, this one actually being about *Prince of Persia*. 
 Reading his process on the entire development of a game whilst it's happening is fascinating, and is very different from other books I've read that rely on 
 past recollection and a bit of exaggeration.
 
