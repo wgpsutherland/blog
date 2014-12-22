@@ -9,6 +9,6 @@ For the moment it's the style I'm going to follow, who knows where it will end u
 
 <br><img src="{{site.baseurl}}/images/first_sprite.png" alt="A Sprite drawing of a man on a hill" class="small-blog-image">
 
-I've got to be honest, drawing this image was very fun. I feel that I am going to be able to be very expressive with this style, even though there is not much detail. I can't wait.
+I've got to be honest, drawing this image was very fun. I feel that I am going to be able to be very expressive with this style, even though there is not much detail. Can't wait.
 
 ~ w

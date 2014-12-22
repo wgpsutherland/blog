@@ -4,3 +4,5 @@ analytics :
   provider : google
   google :
       tracking_id : 'UA-56256093-1'
+paginate: 6
+paginate_path: "/page:num/"
