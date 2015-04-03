@@ -3,14 +3,17 @@ layout: post
 title: A matter of security.
 ---
 
-**The Challenge**
+This post is a summary of my attempts at making *Gradients* more secure after I tried breaking it.
+I have waited a while before posting it as I needed to actually fix the security errors before I talked about them.
+
+###The Challenge
 
 I set myself the challenge of trying to break *Gradients*, to see where it's vulnerabilities were.
 
 I decided to try and see if I could fool the system into thinking I was another user, without the need for knowing their password (or even their username).
-It turned out to be *very* simple.
+I also attempted to access the server through curl requests, meaning that the website and subsequent login could be bypassed entirely.
 
-**Structure of Gradients**
+###Structure of Gradients
 
 *Gradients* currently stores user IDs as auto-incrementing integers.
 This means that it is very simple for an attacker to a) guess what a valid user ID is and b) find many subsequent user IDs once it has found a single valid one.
@@ -24,7 +27,7 @@ If it was, access was granted.
 
 I knew due to this that getting access to information I wasn't meant to see would be very easy.
 
-**The Attack**
+###The Attack
 
 Through it being so easy to guess what a valid user ID was and the fact that a cookie storing a user ID was the only way access to a page was determined, I simply had to type the following into the developer's console until I hit gold:
 
@@ -33,7 +36,7 @@ Through it being so easy to guess what a valid user ID was and the fact that a c
 Going through different values of x and reloading the page allowed me to access the pages of every single user in the system.
 This was obviously not good.
 
-**The Response**
+###The Response
 
 The ease of which I was able to gain access to anyone's account prompted me to research heavily into web security.
 I knew that I would need to:
