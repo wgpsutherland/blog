@@ -125,4 +125,6 @@ I have two plans for how I want to extend this project further.
 First I would like to make a site that allows a user to type in an artist name and it generate a song for them on the page.
 This would require me to learn a Python web framework like Django, which could be quite interesting.
 
-I would also like to build a twitter bot that post song snippets and can take requests.
+I would also like to build a twitter bot that posts song snippets and takes requests.
+
+~ w
