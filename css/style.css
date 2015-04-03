@@ -45,3 +45,14 @@ body a:hover {
     display: block;
     text-align: center
 }
+
+/* ======================================== CODE =========================================== */
+
+pre code {
+    color: rgb(104, 123, 132);
+}
+
+pre {
+    background-color: rgb(251, 247, 226);
+    border: 0;
+}
